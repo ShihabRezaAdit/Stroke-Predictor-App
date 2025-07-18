@@ -4,6 +4,10 @@
 
 The **Stroke Predictor App** is a machine learning-based web application designed to predict the likelihood of a person having a stroke. It leverages data analysis and prediction models to offer insights into stroke risk based on various factors.
 
+## Project Contributors
+- **Monirul Islam**
+- **Md Shihab Reza**
+- 
 ## Features
 - **Predict Stroke Risk**: Users can input various health factors to predict their risk of having a stroke.
 - **Machine Learning Model**: Trained on a dataset to classify stroke risk.
